@@ -1,4 +1,4 @@
-# Laba3_report
+# Laba3_report-TiMP
 ### Задание №1
 ```
 touch CMakeLists.txt
