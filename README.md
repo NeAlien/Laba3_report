@@ -1,5 +1,5 @@
 # Laba3_report
-##Задание №1
+## Задание №1
 ```
 touch CMakeLists.txt
 nano CMakeLists.txt
@@ -18,7 +18,7 @@ cmake -H. -B_build
 cmake --build _build
 
 ```
-##Задание №2
+## Задание №2
 ```
 touch CMakeLists.txt
 nano CMakeLists.txt
@@ -39,7 +39,7 @@ cmake -H. -B_build
 cmake --build _build
 
 ```
-##Задание №3
+## Задание №3
 Part 1
 ```
 touch CMakeLists.txt
