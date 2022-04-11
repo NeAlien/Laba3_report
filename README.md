@@ -32,7 +32,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_library(formatter_ex STATIC formatter_ex.cpp formatter_ex.h)
 
-include_directories(~/lab03/formatter_ex_lib/../formatter_lib)
+include_directories(~/Laba3/formatter_ex_lib/../formatter_lib)
 target_link_libraries(formatter_ex formatter)
 
 cmake -H. -Bbuild2
@@ -53,7 +53,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(hello_world hello_world.cpp)
 
-include_directories(~/lab03/hello_world_application/../formatter_ex_lib)
+include_directories(~/Laba3/hello_world_application/../formatter_ex_lib)
 target_link_libraries(hello_world formatter_ex)
 
 ```
@@ -84,8 +84,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(equation equation.cpp)
 
-include_directories(~/lab03/solver_application/../formatter_ex_lib)
-include_directories(~/lab03/solver_application/../solver_lib)
+include_directories(~/Laba3/solver_application/../formatter_ex_lib)
+include_directories(~/Laba3/solver_application/../solver_lib)
 
 target_link_libraries(equation formatter_ex)
 target_link_libraries(equation solver)
