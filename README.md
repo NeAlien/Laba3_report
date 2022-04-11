@@ -14,8 +14,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_library(formatter STATIC formatter.cpp formatter.h)
 
 
-cmake -H. -B_build
-cmake --build _build
+cmake -H. -Bbuild1
+cmake --build build1
 
 ```
 ### Задание №2
@@ -35,8 +35,8 @@ add_library(formatter_ex STATIC formatter_ex.cpp formatter_ex.h)
 include_directories(~/lab03/formatter_ex_lib/../formatter_lib)
 target_link_libraries(formatter_ex formatter)
 
-cmake -H. -B_build
-cmake --build _build
+cmake -H. -Bbuild2
+cmake --build build2
 
 ```
 ### Задание №3
