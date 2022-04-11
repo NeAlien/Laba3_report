@@ -1,0 +1,14 @@
+/home/nealien/Laba3/solver/CMakeFiles/rebuild_cache.dir
+/home/nealien/Laba3/solver/CMakeFiles/edit_cache.dir
+/home/nealien/Laba3/solver/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/nealien/Laba3/solver/formatter_lib/CMakeFiles/edit_cache.dir
+/home/nealien/Laba3/solver/formatter_lib/CMakeFiles/formatter.dir
+/home/nealien/Laba3/solver/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/nealien/Laba3/solver/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/nealien/Laba3/solver/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/nealien/Laba3/solver/solver_lib/CMakeFiles/rebuild_cache.dir
+/home/nealien/Laba3/solver/solver_lib/CMakeFiles/edit_cache.dir
+/home/nealien/Laba3/solver/solver_lib/CMakeFiles/solver.dir
+/home/nealien/Laba3/solver/solver_application/CMakeFiles/rebuild_cache.dir
+/home/nealien/Laba3/solver/solver_application/CMakeFiles/edit_cache.dir
+/home/nealien/Laba3/solver/solver_application/CMakeFiles/equation.dir
